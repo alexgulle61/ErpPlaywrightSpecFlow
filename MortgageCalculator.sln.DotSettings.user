@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c89dde5_002D1175_002D4147_002Da2c6_002D024f9f7d4fd2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="User should be able to see Estimate results" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::408246B0-5F46-406B-BF5C-A98F991DEEA0::net6.0::MortgageCalculator.Features.MortgageCalculatorFeature&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::408246B0-5F46-406B-BF5C-A98F991DEEA0::net6.0::MortgageCalculator.Features.EnrollPolicyFeature.UserEnrollsPolicyWithCC&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=49ea5640_002D914a_002D4fff_002Dad8e_002D3c4d83c3de7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="User Enrolls Policy With CC" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::408246B0-5F46-406B-BF5C-A98F991DEEA0::net6.0::MortgageCalculator.Features.EnrollPolicyFeature.UserEnrollsPolicyWithCC&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
