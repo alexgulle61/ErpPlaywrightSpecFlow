@@ -1,7 +1,7 @@
 Feature: Enroll Policy
 As a user
-I want to enroll in a policy using my credit card
-So that I can have coverage for my apartment
+I want to enroll in a policy using the credit card
+So that I can have coverage for the apartment
 
     Scenario Outline: User Enrolls Policy With CC
         Given User is on
